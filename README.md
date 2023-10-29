@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brutal0 and a freshman in College pursuing BCA Hon./Research
 - 👀 I’m interested in development
 - 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on any tech realted projects
+- 💞️ I’m looking to collaborate with everyone to gain experience
 - 📫 How to reach me brutalluinor0@gmail.com
 
 <!---
